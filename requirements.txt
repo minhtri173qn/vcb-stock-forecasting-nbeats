@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+pmdarima
+tensorflow
+yfinance
+vnstock
+neuralforecast==1.7.4
